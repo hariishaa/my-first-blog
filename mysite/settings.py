@@ -25,7 +25,7 @@ SECRET_KEY = 'irp766$!tp$597ni4e%dn1k4=!e8e&basmlvhnof$i1$mc($1u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rulezzzz.pythonanywhere.com']
 
 
 # Application definition
